@@ -16,4 +16,15 @@
     "name": "T196_1231",
     "type": "branch"
   },
-{"repo":"AGuldbrandt/Hook_Me_Up_Scotty","name":"T193d","type":"branch"},{"type":"issue","id":"3cc0476d-5c61-43b2-b0df-e1a0b160cc43","number":"3","repo":"AGuldbrandt/Hook_Me_Up_Scotty"}]
+  {
+    "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
+    "name": "T193d",
+    "type": "branch"
+  },
+  {
+    "type": "issue",
+    "id": "3cc0476d-5c61-43b2-b0df-e1a0b160cc43",
+    "number": "3",
+    "repo": "AGuldbrandt/Hook_Me_Up_Scotty"
+  }
+]
