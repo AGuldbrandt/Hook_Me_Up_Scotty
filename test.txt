@@ -15,3 +15,16 @@ logger.info("Starting Pull request opened");
                     String key = ref.getString("key");
                     // Check if the ref has the right key
                     if (key.equals(refKey)) {
+                    
+                    
+                    
+            logger.info("Getting all task external refs");
+            JSONArray taskExternalRefs = forecastConnector.getArray("task_external_ref");
+
+            // Check if there are any external refs
+            if (taskExternalRefs.length() > 0) {
+                // loop external refs
+                for (int i = 0; i < taskExternalRefs.length(); i++) {
+                    JSONObject ref = taskExternalRefs.getJSONObject(i);
+                    String key = ref.getString("key");
+                    // Check if the ref has the righ
