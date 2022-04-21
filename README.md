@@ -2,3 +2,4 @@
 Awesome new repo from testing web hooks to link tasks to new branches with the same TASK id
 
     if (lol === 1) console.println('LOL');
+    else console.println('SAD');
