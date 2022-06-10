@@ -1,6 +1,23 @@
-
-{
-  "number": "2",
-  "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
-  "type": "pullrequest"
+{"ObjectsArray" : [
+    {
+      "number": "1",
+      "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
+      "type": "pullrequest"
+    },
+    {
+      "number": "2",
+      "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
+      "type": "pullrequest"
+    },
+    {
+      "number": "3",
+      "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
+      "type": "pullrequest"
+    },
+    {
+      "number": "4",
+      "repo": "AGuldbrandt/Hook_Me_Up_Scotty",
+      "type": "pullrequest"
+    }
+  ]
 }
